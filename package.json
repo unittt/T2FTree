@@ -1,0 +1,16 @@
+{
+  "name": "com.t2f.tree",
+  "displayName": "T2FTree",
+  "author": { "name": "qiu fei", "url": "https://github.com/unittt/T2FTree" },
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "轻量级树形数据结构与UGUI树状视图组件，提供树节点增删改查、展开折叠、节点复用等功能，数据层零依赖，可独立用于非UI场景。",
+  "keywords": [
+    "tree",
+    "treeview",
+    "ugui",
+    "hierarchy"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
